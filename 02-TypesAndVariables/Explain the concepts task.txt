@@ -1,0 +1,3 @@
+variable - artificially created names for any process made by your program
+operator - various symbols which mean any sort of mathematical action
+data type - an attribute which tells the existing usable variations of data
