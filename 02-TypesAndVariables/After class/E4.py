@@ -1,0 +1,5 @@
+a = int(172)
+c = int(a/30.48)
+d = int(a//12)
+b = int(d%2.54)
+print(f"I am {a} tall, i.e. {c} feet and {b} inches")
